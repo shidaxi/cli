@@ -3101,6 +3101,7 @@ ignite scaffold chain [name] [flags]
       --no-module                create a project without a default module
       --params strings           add default module parameters
   -p, --path string              create a project in a specific path
+      --proto-dir string         chain proto directory (default "proto")
       --skip-git                 skip Git repository initialization
       --skip-proto               skip proto generation
 ```
